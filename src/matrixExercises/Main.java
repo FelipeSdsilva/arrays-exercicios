@@ -67,5 +67,6 @@ public class Main {
             System.out.print(String.format(" %.1f", i) + " ");
         }
 
+
     }
 }
