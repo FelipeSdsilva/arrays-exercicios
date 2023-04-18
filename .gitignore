@@ -1,3 +1,9 @@
+#Ignore folder IDE sts
+.settings/*
+bin/*
+.classpath
+.classproject
+
 # Compiled class file
 *.class
 
